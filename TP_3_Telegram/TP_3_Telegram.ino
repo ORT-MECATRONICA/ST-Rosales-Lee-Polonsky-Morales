@@ -1,4 +1,4 @@
-/* Joaquin R y Santi M 5LA **/
+/* Joaquin R, Jonathan L, Liam P, Santi M 5LA **/
 
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
